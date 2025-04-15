@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230605292963",
+    "project_id": "attendancemanagement-33a90",
+    "storage_bucket": "attendancemanagement-33a90.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230605292963:android:e0e7f5841fd8260559c616",
+        "android_client_info": {
+          "package_name": "com.leavemanagement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy5a-G7uFXNpVEPQNuKmT798j_s1XyIJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
